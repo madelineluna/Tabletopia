@@ -49,7 +49,7 @@ The platform supports up to **6 players** and emphasizes both usability and exte
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/madelineluna/tabletopia.git
+git clone https://github.com/madelineluna/Tabletopia.git
 ```
 
 ### Open in Unity

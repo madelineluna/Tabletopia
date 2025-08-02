@@ -65,17 +65,22 @@ You may need to set up Unity Services with your own credentials for multiplayer 
 ### 📸 Screenshots
 
 Login Screen	
+<img width="1439" height="817" alt="Login screenshot" src="https://github.com/user-attachments/assets/54416ba8-b024-46db-9a33-d8203e470d04" />
 
 Main Menu Screen
+<img width="1468" height="823" alt="Main Menu Screenshot" src="https://github.com/user-attachments/assets/05075b18-d558-4814-90fa-bd102b26061f" />
 
 Player Stats / Profile Screen
+<img width="1453" height="820" alt="Profile Screenshot" src="https://github.com/user-attachments/assets/1d62b8e2-52a3-4404-8bc5-083abcc22943" />
 
 Customization Shop
+<img width="1471" height="823" alt="Customization Shop Screenshot" src="https://github.com/user-attachments/assets/4321bd78-cb92-4605-9906-59815e34d2e9" />
 
-Player List / Add / Delete Screen
+Player Messaging Screen
+<img width="1467" height="820" alt="Friends Messaging Screenshot" src="https://github.com/user-attachments/assets/9ef6bfc6-8835-4a40-83e3-100c7462f528" />
 
 Game Library
-
+<img width="1468" height="822" alt="Game Library Screenshot" src="https://github.com/user-attachments/assets/4202ea66-6b3e-4cd2-af7a-9a489f94ff28" />
 
 ### 👩‍💻 Team Members
 
@@ -102,8 +107,7 @@ https://drive.google.com/file/d/1okOGLfwff9-7ikcPd9mj93E7rZDnpikq/view?usp=shari
 
 Google Drive with all Files:
 
-https://drive.google.com/file/d/1lCpKmCKCRdWTf7LRIbkfzuB0gv12j3Et/view?usp=sharing
-
+https://drive.google.com/drive/folders/1Pg27I8CNC68WK5ncX6GsMpdD9T3rXCZ_?usp=sharing
 
 ### 🎓 Acknowledgements
 

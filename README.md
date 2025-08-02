@@ -47,7 +47,7 @@ The platform supports up to **6 players** and emphasizes both usability and exte
 
 ## 🚀 Getting Started
 
-### Download the project from this zipped file found on this link from gogole drive:
+### Download the project from this zipped file found on this link from google drive:
 ```bash
 https://drive.google.com/file/d/1Y9Ivlp6wTZtBfKWZX6DYFIqwB8aFkcW0/view?usp=sharing
 ```

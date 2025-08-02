@@ -47,9 +47,9 @@ The platform supports up to **6 players** and emphasizes both usability and exte
 
 ## 🚀 Getting Started
 
-### Clone the Repository
+### Download the project from this zipped file found on this link from gogole drive:
 ```bash
-git clone https://github.com/madelineluna/Tabletopia.git
+https://drive.google.com/file/d/1Y9Ivlp6wTZtBfKWZX6DYFIqwB8aFkcW0/view?usp=sharing
 ```
 
 ### Open in Unity

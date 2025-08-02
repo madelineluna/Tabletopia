@@ -91,17 +91,19 @@ Ziv Gabay – Testing & Documentation
 
 ### 📅 Timeline
 
--input here -
+<img width="1826" height="645" alt="Screenshot 2025-08-02 at 4 18 36 PM" src="https://github.com/user-attachments/assets/5430c4c0-4c46-4326-9685-91fca9e6d79d" />
+<img width="1800" height="889" alt="Screenshot 2025-08-02 at 4 18 59 PM" src="https://github.com/user-attachments/assets/0d6694ba-62f3-4e9d-8dd6-b5ad0036d74b" />
 
 ### 📘 Documentation
 
-Design Document (PDF)
+Design Document / Development Log (PDF)
 
-User Manual
+https://drive.google.com/file/d/1okOGLfwff9-7ikcPd9mj93E7rZDnpikq/view?usp=sharing
 
-Known Issues
+Google Drive with all Files:
 
-Development Log
+https://drive.google.com/file/d/1lCpKmCKCRdWTf7LRIbkfzuB0gv12j3Et/view?usp=sharing
+
 
 ### 🎓 Acknowledgements
 
